@@ -19,6 +19,7 @@ group :test do
   gem 'puppetlabs_spec_helper'
   gem 'simplecov'
   gem 'metadata-json-lint'
+  gem 'safe_yaml', '=1.0.4'
 end
 
 group :development do
